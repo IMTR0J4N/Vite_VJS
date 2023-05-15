@@ -34,7 +34,7 @@ ul {
     list-style: none;
 }
 
-img {
+img, picture img, picture source, iframe {
     max-width: 100%;
     height: auto;
 }
